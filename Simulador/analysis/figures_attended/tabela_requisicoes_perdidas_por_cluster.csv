@@ -1,0 +1,31 @@
+Cluster,Modelo,Total de Requisições Perdidas,Eventos de Perda
+0,Bayesian Linear Regressor,1251,2
+0,EWARegressor,1251,2
+0,Ideal,0,0
+0,KNN,2018,3
+0,SKL,1251,2
+0,SRP,1251,2
+1,Bayesian Linear Regressor,24,1
+1,EWARegressor,24,1
+1,Ideal,0,0
+1,KNN,24,1
+1,SKL,24,1
+1,SRP,24,1
+2,Bayesian Linear Regressor,0,0
+2,EWARegressor,0,0
+2,Ideal,0,0
+2,KNN,2886,1
+2,SKL,2886,1
+2,SRP,2886,1
+3,Bayesian Linear Regressor,28584,2
+3,EWARegressor,31541,3
+3,Ideal,0,0
+3,KNN,70677,7
+3,SKL,31419,4
+3,SRP,28584,2
+4,Bayesian Linear Regressor,43308,7
+4,EWARegressor,45758,9
+4,Ideal,0,0
+4,KNN,105032,24
+4,SKL,95342,29
+4,SRP,42728,6
